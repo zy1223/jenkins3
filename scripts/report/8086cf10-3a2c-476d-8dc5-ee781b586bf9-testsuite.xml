@@ -1,0 +1,27 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1568792223454" stop="1568792223464">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1568792223454" status="passed" stop="1568792223464">
+      <name>test_jenkins.TestJenkins.test_jenkins</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12384-MainThread"/>
+        <label name="host" value="DESKTOP-CIN0OSD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1568792223464" status="passed" stop="1568792223464">
+          <name>测试步骤</name>
+          <title>测试步骤</title>
+          <attachments>
+            <attachment source="5521a705-b58e-4861-a459-c0eb9a684b84-attachment.txt" title="附件名字" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
